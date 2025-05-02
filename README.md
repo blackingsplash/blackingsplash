@@ -1,5 +1,5 @@
 ## Hello! 👋
-Hello, I am <b>BlackingSplash</b>, a professional Roblox developer, marketor and investor. I like to discuss in Roblox development communities around Discord and am currently creating a <b>BadgeService wrapper</b> for all developers to use! Shoot me a DM in Discord if you want to discuss any special inqueries together. My handler is <i>@alsoblackingsplash</i>. 
+Hello, I am <b>BlackingSplash</b>, a professional Roblox developer, marketor and investor. I like to discuss in Roblox development communities around Discord and am currently creating a <b>custom signal module</b> for all developers to use! Shoot me a DM in Discord if you want to discuss any special inqueries together. My handler is <i>@alsoblackingsplash</i>. 
 
 ## My skills!
 [![My Skills](https://skillicons.dev/icons?i=figma,lua,robloxstudio,twitter,discord,discordjs,js)](https://skillicons.dev)
