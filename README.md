@@ -1,5 +1,5 @@
 ## Hello! 👋
-Hello, I am <b>BlackingSplash</b>, a professional Roblox developer, marketor and investor. I like to discuss in Roblox development communities around Discord and am currently creating a tycoon called <b>Build a Motel ⭐</b> for all Roblox users to play! Shoot me a DM in Discord if you want to discuss any special inqueries together. My handler is <i>@alsoblackingsplash</i>. 
+Hello, I am <b>EllieMakesManyGames</b>, a Python and Lua developer. I like to discuss in Roblox development communities around Discord and I am currently working to get a programming certificate! Shoot me a DM in Discord if you want to discuss any special inqueries together. My handler is <i>@elliemakesmanygames</i>. 
 
 ## My skills!
 [![My Skills](https://skillicons.dev/icons?i=figma,lua,robloxstudio,twitter,discord,discordjs,js,fastapi,python,go)](https://skillicons.dev)
