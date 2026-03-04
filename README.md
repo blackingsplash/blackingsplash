@@ -11,6 +11,10 @@ I am a Robotics Engineering Intern @Techmatics.
 I love building things for myself or my friends!
 Hoping to become the greatest programmer of all time one day, it is a lifelong goal.
 
+# 🤝Who I am currently working with!
+Currently working with my mentee [@sahleyis](https://github.com/sahleyis), on Web Studios & lots of projects!<br>
+I am open to up to 3 collaborations at a time! 1/3<br>
+
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to the public. :)<br>
 -I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>
