@@ -1,4 +1,4 @@
- ![](./profile-3d-contrib/night.svg)
+![](./profile-3d-contrib/night.svg)
 
 # 💫 About Me: 
 Hey, I am Taco, a full-stack developer, game developer, Robotics Engineer, & OS Developer!
