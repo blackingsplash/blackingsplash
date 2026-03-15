@@ -7,7 +7,7 @@ I ship projects from VSCode and is learning Arduino.
 I enjoy pushing code to its limits and expirementing with system designs!
 
 # ❗Specifications
--What I post here isn't all of my work, just what I want to show to the public.<br>
+- What I post here isn't all of my work, just what I want to show to the public.<br>
 - I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>
 - Add @elliemakesmanygames on Discord if you want to talk to me or collab with me, I am looking forward for it unless it is volunteering!<br>
                                                                                                                                                     
@@ -16,11 +16,11 @@ I enjoy pushing code to its limits and expirementing with system designs!
 -Learning webdev so I can start building websites for online charities.
 
 # 🌱 I am currently learning:
--Arduino for robotics.
--Cybersecurity alongside ethical hacking.
--Data structures and algorithms.
--Internal computer logic.
--Learning CPP and a bit of C#.
+- Arduino for robotics.
+- Cybersecurity alongside ethical hacking.
+- Data structures and algorithms.
+- Internal computer logic.
+- Learning CPP and a bit of C#.
 
 # 💻 Tech Stack:   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
