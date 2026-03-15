@@ -12,8 +12,8 @@ I enjoy pushing code to its limits and expirementing with system designs!
 - Add @elliemakesmanygames on Discord if you want to talk to me or collab with me, I am looking forward for it unless it is volunteering!<br>
                                                                                                                                                     
 # 📝 What I hope to build in the future!
--Some internal backend programs, such as schedulers, decompilers.
--Learning webdev so I can start building websites for online charities.
+- Some internal backend programs, such as schedulers, decompilers.
+- Learning webdev so I can start building websites for online charities.
 
 # 🌱 I am currently learning:
 - Arduino for robotics.
